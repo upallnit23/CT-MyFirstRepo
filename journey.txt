@@ -1,0 +1,2 @@
+My favorite moment so far was figuring out how to save a file, so that git 
+could update it.  Learning how to use Visual Studio Code is exciting.
